@@ -1,3 +1,8 @@
+
+
+![sales_dashboard-1](https://github.com/user-attachments/assets/0d44f466-8276-4a0c-9b51-20491e92e389)
+
+
 # 🧾 Sales Performance Dashboard – Power BI Project
 
 This project showcases an interactive **Sales Performance Dashboard** built using **Power BI**, designed to visualize and analyze key sales metrics for business decision-making.
@@ -31,7 +36,6 @@ This project showcases an interactive **Sales Performance Dashboard** built usin
 
 
 
-![sales_dashboard-1](https://github.com/user-attachments/assets/0d44f466-8276-4a0c-9b51-20491e92e389)
 
 ![sales_dashboard-2](https://github.com/user-attachments/assets/d9059d9f-a699-4016-8be5-4af81fbc81ae)
 
