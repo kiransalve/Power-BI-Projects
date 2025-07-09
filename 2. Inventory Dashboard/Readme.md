@@ -1,7 +1,7 @@
 ![Inventory Dashboard - 1](https://github.com/user-attachments/assets/d3aed3e5-8283-43fa-8557-7d2871a23f2b)
 
 
-# 📦 Inventory Dashboard (Amt in Lakhs) - Power BI
+# 📦 Inventory Dashboard - Power BI
 
 A comprehensive **Inventory Management Dashboard** built using **Power BI**, designed to deliver clear insights into stock performance, aging, and trends – helping businesses make smarter inventory decisions.
 
