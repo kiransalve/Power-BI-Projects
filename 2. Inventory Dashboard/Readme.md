@@ -21,7 +21,26 @@ This dashboard provides a complete snapshot of inventory performance with multip
 - **Amt by Brand**: Brand-wise inventory value with % share
 - **Amt by Product Group**: Category-wise distribution (Microwave, Oven, Juicer, etc.)
 - **Amt by Aging Group**: Inventory bucketed by age (1–3 months, 4–6 months, etc.)
-- **Location-wise Invento**
+- **Location-wise Inventory Aging Matrix**: Helps pinpoint aging stock by warehouse or location
+
+## 📌 Use Cases
+
+✅ For **CFOs** – Understand stock aging & value locked in inventory  
+✅ For **Supply Chain Teams** – Identify slow-moving or dead inventory  
+✅ For **Sales & Ops Planning** – Align forecasting with current stock health  
+✅ For **Category Managers** – Analyze performance by Brand or Product Group  
+
+---
+
+## ⚙️ Tech Stack
+
+- **Tool**: Power BI Desktop  
+- **Data Modeling**: Star schema (Fact + Dimension tables)  
+- **DAX**: Measures & calculated columns for KPI logic  
+- **Design**: Card visuals, bar & pie charts, matrix, tooltips, and slicers for interactivity  
+
+---
+## 📷 Preview
 
 ![Inventory Dashboard - 2](https://github.com/user-attachments/assets/db788ff5-da53-4c72-91e0-3a42c02e5fa5)
 
